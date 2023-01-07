@@ -1,0 +1,25 @@
+create the new repo in github
+create file 
+
+
+create the new freee styke project in jenkins 
+give the project detalis (if any there)
+got the source code mangement
+give the details 
+copy repo ink form the github 
+past in Repository URL in jenkins
+and give the Credentials
+ add jenkins details 
+ Branches to build (if there master or main)
+ build triggers 
+ poll scm 
+ give the required time 
+ applu save 
+ 
+ 
+ 
+ 
+ 
+ 
+ make the changes in git repo (adding file or creating the file)
+ check build history
